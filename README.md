@@ -61,30 +61,9 @@ I enjoy working with data, building projects, and turning raw data into meaningf
 
 ## 📬 Contact
 
-* 📧 Email: [smritikaushik670@example.com]
+* 📧 Email: [smritikaushik670@gmail.com]
 * 💻 GitHub: https://github.com/smriti-A
   
-
----
-
-## ⚙️ How to Run Locally
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/smriti-A/my-portfolio.git
-```
-
-2. Open `index.html` in your browser
-
----
-
-## 🌟 Future Improvements
-
-* Add real backend contact form
-* Add advanced data analysis projects
-* Improve UI with animations
-* Add dark/light mode toggle
 
 ---
 
