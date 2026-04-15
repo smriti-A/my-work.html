@@ -4,7 +4,7 @@
 A modern, responsive portfolio website showcasing my skills in Data Analysis, Python, and web development.
 
 ## 🚀 Live Demo
-🔗 https:///my-portfolio/my-work.html
+🔗 https://smriti-A.github.io/my-portfolio/
 
 ## 📌 About
 I am a recent Electrical & Electronics Engineering graduate passionate about Data Analysis and Python programming. This portfolio highlights my projects and technical expertise.
