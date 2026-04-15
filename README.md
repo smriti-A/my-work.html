@@ -36,9 +36,9 @@ A modern, responsive, and aesthetic personal portfolio website built using **HTM
 ```bash
 portfolio/
 │── index.html
-│── assets/
-│── styles (if separated)
-│── scripts (if separated)
+│── assets
+│── styles 
+│── scripts 
 ```
 
 ---
